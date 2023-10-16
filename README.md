@@ -54,4 +54,4 @@ n a pull request to the main repository.
 - This project is a part of the "100 Days of Code" challenge by Angela Yu.
 
 ## Author
-- [Mansi Yadav](https://github.com/FreeSpirit11/blog-website)
+- [Mansi Yadav](https://github.com/FreeSpirit11)
