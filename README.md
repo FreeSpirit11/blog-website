@@ -39,8 +39,6 @@ This is a simple blog website built with Flask. It allows you to showcase your b
    python main.py
    ```
 
-4. Open your web browser and go to [http://localhost:5000/](http://localhost:5000/) to view the blog website.
-
 ## Usage
 
 - When the website is running, you can view the list of blog posts on the main page.
